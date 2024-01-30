@@ -31,6 +31,26 @@
     }
 </style>
 
+
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        /* your CSS */
+      </style>
+
+      <!-- your HTML -->
+
+    </div>
+  </foreignObject>
+</svg>
+
+
+
+
+
 <!-- Instrucciones adicionales para el README -->
 <h2>Setting it up</h2>
 <p>In your repository, add a new SVG file with whatever name you like, such as header.svg.</p>
