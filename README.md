@@ -17,7 +17,7 @@
 
 - A Programming/Engineering Student
 - Currently learning Web Development
-- Personal website [link](None)
+- Personal website [link](None) [In progress]<br>
 <b>- Currently learning to be a professional</b>
 
 <!--
