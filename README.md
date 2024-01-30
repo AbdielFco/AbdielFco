@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <h3 align="center">An App developer from Dominican. Republic.</h3>
 
@@ -98,12 +98,6 @@
 </li>
 
 <br>
-
-<li>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  (None yet)-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
 
 <br>
 
