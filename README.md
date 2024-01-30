@@ -1,4 +1,20 @@
-<style>
+
+<h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<h3 align="center">An App developer from Dominican Republic 🇩🇴.</h3>
+
+
+<br>
+
+
+
+
+
+
+
+<div class="banner">
+	<style>
+
 $banner-width: 20em;
 $banner-height: 5em;
 
@@ -72,27 +88,10 @@ body {
 a {
 	color: #fff;
 }
-	
-</style>
 
 
-
-
-
-<h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<h3 align="center">An App developer from Dominican Republic 🇩🇴.</h3>
-
-
-<br>
-
-
-
-
-
-
-
-<div class="banner">
+  
+	</style>
 	<div class="shopping-image">
 		<img src="https://th.bing.com/th/id/OIP.51xTX_-j8aYEbFoF7UkScQHaHa?rs=1&pid=ImgDetMain" alt="shopping">
 	</div>
