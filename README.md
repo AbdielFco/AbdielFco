@@ -15,8 +15,7 @@
 
 <br>
 
-- A Semi 'Self'-taught developer
-- Also Programming Student
+- A Programming/Engineering Student
 - Currently learning Web Development
 - Personal website [link](None)
 - I’m currently open for an Intern or a job opportunity, this is [my resume](None)
@@ -92,7 +91,7 @@
 
 <li>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
