@@ -1,10 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
 
-<h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<h3 align="center">An App developer from Dominican Republic 🇩🇴.</h3>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Agregado CSS */
 
+        *,
+        *::before,
+        *::after {
+            position: relative;
+            box-sizing: border-box;
+            transition: 1s all linear;
+        }
 
-<br>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100%;
+            width: 100%;
+            background-color: lighten(black, 20%);
+            color: #fff;
+        }
+
+        .banner {
+            width: 20em;
+            background: red;
+            height: 5em;
+            overflow: hidden;
+            display: flex;
+            justify-content: flex-start;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+            cursor: pointer;
+            border-radius: .3em;
+
+            &:hover {
+                transform: scale(1.05);
+                box-shadow: 0 5px 15px 10px rgba(0, 0, 0, 0.55);
+            }
+        }
+
+        .shopping-image {
+            height: auto;
+            width: 10em;
+            /* half of banner-width */
+            /* transform: translateX(-1 * ($banner-width / 2)) translateY(-1 * $banner-height);
+            overflow: hidden; */
+
+            > img {
+                height: 5em;
+                /* same as banner-height */
+                width: 10em;
+                /* half of banner-width */
+                object-fit: cover;
+                border-radius: 0 2em 2em 0 / 0 3em 3em 0;
+                box-shadow: 3px 5px 1px 3px darken(red, 20%);
+            }
+        }
+
+        .text {
+            height: 5em;
+            /* same as banner-height */
+            width: 10em;
+            /* half of banner-width */
+            display: flex;
+            justify-content: center;
+            text-align: center;
+
+            > * {
+                font-size: 12px;
+                text-align: center;
+            }
+        }
+
+        a {
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Nuevo HTML -->
+    <div class="banner">
+        <div class="shopping-image">
+            <img src="https://th.bing.com/th/id/OIP.51xTX_-j8aYEbFoF7UkScQHaHa?rs=1&pid=ImgDetMain" alt="shopping">
+        </div>
+
+        <div class="text">
+            <h4>
+                JUNIOR <br>
+                APP-DEVELOPER
+            </h4>
+        </div>
+    </div>
+
+    <!-- Tu código original continúa aquí -->
+    <h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <!--  -->
+    <h3 align="center">An App developer from Dominican Republic 🇩🇴.</h3>
+
+    <br>
 
 
 
@@ -149,5 +251,9 @@
 ---
 
 <br>
+
+</body>
+
+</html>
 
 Edited on: 29/01/2024
