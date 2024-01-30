@@ -40,6 +40,7 @@
       <style>
         h3 {
             font-size: 100px; 
+            color: red;
         }
       </style>
 
