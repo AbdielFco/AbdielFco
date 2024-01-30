@@ -1,19 +1,3 @@
-<div class="banner" style="width: 20em; background: red; height: 5em; overflow: hidden; display: flex; justify-content: flex-start; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35); cursor: pointer; border-radius: .3em;">
-<div class="shopping-image" style="height: auto; width: 10em;">
-<img src="https://th.bing.com/th/id/OIP.51xTX_-j8aYEbFoF7UkScQHaHa?rs=1&pid=ImgDetMain" alt="shopping" style="height: 5em; width: 10em; object-fit: cover; border-radius: 0 2em 2em 0 / 0 3em 3em 0; box-shadow: 3px 5px 1px 3px darken(red, 20%);">
-</div>
-    
-<div class="text" style="height: 5em; width: 10em; display: flex; justify-content: center; text-align: center;">
-<h4 style="font-size: 12px; text-align: center;">
-JUNIOR <br>
-APP-DEVELOPER
-</h4>
-</div>
-</div>
-
-
-
-
 
 <h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
@@ -23,20 +7,6 @@ APP-DEVELOPER
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
