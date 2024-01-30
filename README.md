@@ -17,8 +17,8 @@
 
 - A Programming/Engineering Student
 - Currently learning Web Development
-- Personal website [link](None) [In progress]<br>
-<b>- Currently learning to be a professional</b>
+- Personal website [link](None) [In progress]
+- Currently learning to be a professional
 
 <!--
 - I’m currently open for an Intern or a job opportunity, this is [my resume](None)
