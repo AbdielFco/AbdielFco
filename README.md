@@ -1,8 +1,14 @@
+<styles>
+	.rounded {
+		border-radius: 5px;
+ 	}
+</styles>
 
-<h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center"><b>Hi , I'm Abdiel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" class="rounded"></h1>
 <!--  -->
 <h3 align="center">An App developer from Dominican. Republic.</h3>
-<img src="https://31.media.tumblr.com/cc40f946419dbb70482d8aa56f6df160/tumblr_mpprtx7xIv1rxzw67o1_400.gif" width=100% height=300px>
+<img src="https://31.media.tumblr.com/cc40f946419dbb70482d8aa56f6df160/tumblr_mpprtx7xIv1rxzw67o1_400.gif" width=100% height=350px>
 
 <br>
 
