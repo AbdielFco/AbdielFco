@@ -95,19 +95,13 @@
 <h2 align="left">💻 Extras</h2>
 
 ###
-<div>
-
-</div>
-<div align="center">
-  <div align="left">
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-  </div>
-  <div align="right">
-    <img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />
-  </div>
-</div>
 
 <div align="center">
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-  <img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" style="margin-left: 15px;" />
+
+  |           |           |
+  |-----------|-----------|
+  |<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+  |<img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />
+  |<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+  |<img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" /> |
 </div>
