@@ -70,9 +70,9 @@
 
 ###
 
-| 🛡️ Terminal | 🏗️ Tools | 🎨 Design |
-|----------|-------------|--------|
-| ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Trello](https://skillicons.dev/icons?i=trello) | ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) |
+| 🛡️ Terminal | 🏗️ Tools |
+|----------|-------------|
+| ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Notion](https://skillicons.dev/icons?i=notion) ![Figma](https://skillicons.dev/icons?i=figma) |
 
 </div>
 
