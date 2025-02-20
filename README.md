@@ -16,8 +16,8 @@
 ###
 
 <p align="left">
-🚀 > **Currently working on:** Developing personal projects & taking on new challenges.<br>
-🤝 > **Looking to collaborate on:** Open-source projects & gaining experience.<br>
+🚀 <strong>Currently working on:</strong> Developing personal projects & taking on new challenges.<br>
+🤝 Looking to collaborate on:** Open-source projects & gaining experience.<br>
 💡 > **Seeking feedback on:** My work, code, and ideas—let’s grow together!<br>
 🖥️ > **Currently learning:** Backend development for web applications.<br>
 🎸 > **Fun fact:** I play bass! 🎵
