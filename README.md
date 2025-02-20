@@ -95,10 +95,16 @@
 <h2 align="left">💻 Extras</h2>
 
 ###
+<div>
 
+</div>
 <div align="center">
-  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-  <img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" style="margin-left: 15px;" />
+  <div align="left">
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+  </div>
+  <div align="right">
+    <img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" style="margin-left: 15px;" />
+  </div>
 </div>
 
 <div align="center">
