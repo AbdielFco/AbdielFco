@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdiel and I'm a Developer and Engenier stundet, from Dominican Republic.</p>
+<p align="left">My name is Abdiel, and I'm a Developer and Engineering student from the Dominican Republic.</p>
 
 ###
 
@@ -27,12 +27,12 @@
 ###
 
 <div align="left">
-  <a href="juanabdiel56@gmail.com" target="_blank">
+  <a href="mailto:juanabdiel56@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
@@ -42,124 +42,40 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">🖥️ Languages</h3>
-
-###
+<h3 align="left">🖥️ Languages | 📊 Databases | 🌐 Frontend</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java,js,ts" height="40" alt="java, javascript, typescript logos"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40" alt="mysql, postgresql, mongodb logos"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap" height="40" alt="angular, react, bootstrap logos"  />
 </div>
 
 ###
 
-<h3 align="left">📊 Databases</h3>
-
-###
+<h3 align="left">🖥️ Backend | 📜 Control | 🏗️ Dev Tools</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="40" alt="nodejs, express, spring logos"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" height="40" alt="git, github, docker logos"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">🌐 Frontend</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">🖥️ Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-</div>
-
-###
-
-<h3 align="left">📜 Control</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🏗️ Dev Tools</h3>
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
 ###
 
-<h3 align="left">🛡️ Terminal</h3>
-
-###
+<h3 align="left">🛡️ Terminal | 🛠 Productivity | 🎨 Design</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell,bash,firebase" height="40" alt="powershell, bash, firebase logos"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Productivity</h3>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Design</h3>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
 </div>
 
 ###
@@ -181,24 +97,22 @@
 
 <div align="right">
   <img height="200" src="https://art.pixilart.com/4d6abedb244be60.gif"  />
+  <p align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 </div>
-
-###
 
 <div align="right">
   <img height="200" src="https://media.tenor.com/FBpMj0pcWxkAAAAM/all-might-fortnite.gif"  />
+  <p align="left">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 </div>
-
-###
 
 <div align="right">
   <img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif"  />
+  <p align="left">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
 </div>
-
-###
 
 <div align="right">
   <img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif"  />
+  <p align="left">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
 </div>
 
 ###
