@@ -66,7 +66,7 @@
 
 | 🖥️ Backend | 📝 Control | 🏗️ Tools |
 |---------|---------|-----------|
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) | ![VS Code](https://skillicons.dev/icons?i=vscode) | [![My Skills](https://skillicons.dev/icons?i=godot&theme=dark&perline=15)](https://skillicons.dev) |
 
 ###
 
@@ -75,6 +75,7 @@
 | ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Notion](https://skillicons.dev/icons?i=notion) ![Trello](https://skillicons.dev/icons?i=trello) | ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) |
 
 </div>
+
 ###
 
 <h2 align="left">📊 GitHub Stats</h2>
