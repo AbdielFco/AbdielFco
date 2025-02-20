@@ -66,7 +66,7 @@
 
 | 🖥️ Backend | 📝 Control | 🏗️ Tools |
 |---------|---------|-----------|
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) | ![Godot](https://skillicons.dev/icons?i=godot) |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Godot](https://skillicons.dev/icons?i=godot) |
 
 ###
 
