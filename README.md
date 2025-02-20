@@ -56,6 +56,7 @@
 
 ###
 
+<div align="center">
 
 | 🔧 Languages | 📊 Databases | 🌐 Frontend |
 |-----------|-----------|----------|
@@ -73,7 +74,7 @@
 |----------|-------------|--------|
 | ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Notion](https://skillicons.dev/icons?i=notion) ![Trello](https://skillicons.dev/icons?i=trello) | ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) |
 
-
+</div>
 ###
 
 <h2 align="left">📊 GitHub Stats</h2>
