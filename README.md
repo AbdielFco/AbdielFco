@@ -64,15 +64,15 @@
 
 ###  
 
-| 🖥️ Backend | 📝 Control | 🏗️ Tools |
+| 🖥️ Backend | 📝 Control | 🛠 Dev |
 |---------|---------|-----------|
 | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Godot](https://skillicons.dev/icons?i=godot) |
 
 ###
 
-| 🛡️ Terminal | 🛠 Productivity | 🎨 Design |
+| 🛡️ Terminal | 🏗️ Tools | 🎨 Design |
 |----------|-------------|--------|
-| ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Notion](https://skillicons.dev/icons?i=notion) ![Trello](https://skillicons.dev/icons?i=trello) | ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) |
+| ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Trello](https://skillicons.dev/icons?i=trello) | ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) |
 
 </div>
 
