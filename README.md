@@ -31,8 +31,8 @@
 
   |           |           |
   |-----------|-----------|
-  | 🧜‍♂️ Superheroes & animated shows    |  <img src="https://preview.redd.it/frq99bxwvfu41.jpg?width=1080&crop=smart&auto=webp&s=d9e196a58ed6c1369f30f7ddc29bc7856ce360d2" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>   |
-  | 💻 Programming & tech    |  <img src="https://i.redd.it/2mei2h1vv1n51.jpg" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>   |
+  | 🧜‍♂️ Superheroes & animated shows    |  <img src="https://preview.redd.it/frq99bxwvfu41.jpg?width=1080&crop=smart&auto=webp&s=d9e196a58ed6c1369f30f7ddc29bc7856ce360d2" height="100" alt="My hero academy" style="margin-left: 15px;"/>   |
+  | 💻 Programming & tech    |  <img src="https://i.redd.it/2mei2h1vv1n51.jpg" height="100" alt="Minecraft Steve in a computer" style="margin-left: 15px;"/>   |
   | 🎮 Games, music & more!    |  <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2012/03/155569-nintendo-busca-espiritu-inazuma.png" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>   |
 
 </div>
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:juanabdiel56@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -92,26 +92,16 @@
 
 ###
 
-<h2 align="left">💻 Extra</h2>
+<h2 align="left">💻 Extras</h2>
 
 ###
 
-<div align="left" style="display: flex; align-items: center;">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  <img height="200" src="https://art.pixilart.com/4d6abedb244be60.gif" style="margin-left: 15px;" />
-</div>
-
-<div align="left" style="display: flex; align-items: center;">
-  <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  <img height="200" src="https://media.tenor.com/FBpMj0pcWxkAAAAM/all-might-fortnite.gif" style="margin-left: 15px;" />
-</div>
-
-<div align="left" style="display: flex; align-items: center;">
+<div align="center">
   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
   <img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" style="margin-left: 15px;" />
 </div>
 
-<div align="left" style="display: flex; align-items: center;">
+<div align="center">
   <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
   <img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" style="margin-left: 15px;" />
 </div>
