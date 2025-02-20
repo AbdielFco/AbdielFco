@@ -27,10 +27,11 @@
 
 ###
 
-<div align="center" style="display: flex; align-items: center;">
+<div align="left" style="display: flex; align-items: center;">
   <p>🧜‍♂️ Superheroes & animated shows <br>
   💻 Programming & tech <br>
   🎮 Games, music & more!</p>
+  <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2012/03/155569-nintendo-busca-espiritu-inazuma.png" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>  
   <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2012/03/155569-nintendo-busca-espiritu-inazuma.png" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>
 </div>
 
