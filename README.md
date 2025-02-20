@@ -15,11 +15,13 @@
 
 ###
 
-<p align="left">🚀 Currently working on: Developing personal projects & taking on new challenges.<br>
-🤝 Looking to collaborate on: Open-source projects & gaining experience.<br>
-💡 Seeking feedback on: My work, code, and ideas—let’s grow together!<br>
-🖥️ Currently learning: Backend development for web applications.<br>
-🎸 Fun fact: I play bass! 🎵</p>
+<p align="left">
+🚀 **Currently working on**: Developing personal projects & taking on new challenges.<br>
+🤝 **Looking to collaborate on**: Open-source projects & gaining experience.<br>
+💡 **Seeking feedback on**: My work, code, and ideas—let’s grow together!<br>
+🖥️ **Currently learning**: Backend development for web applications.<br>
+🎸 **Fun fact**: I play bass! 🎵
+</p>
 
 ###
 
@@ -100,6 +102,6 @@
 
   |           |           |
   |-----------|-----------|
-  |<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>|<img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />|
-  |<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>|<img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" /> |
+  |<p>"No matter what they tell us, we will always move forward into the future!" – Simon 🚀🔥</p>|<img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />|
+  |<p>"If you don't believe in the impossible, you'll never surpass yourself." – Kaiser 🔥⚽</p>|<img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" /> |
 </div>
