@@ -27,7 +27,7 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center;">
+<div align="center" style="display: flex; align-items: center;">
   <p>🧜‍♂️ Superheroes & animated shows <br>
   💻 Programming & tech <br>
   🎮 Games, music & more!</p>
@@ -56,7 +56,7 @@
 
 ###
 
-<div align="center" style="border: 1px solid white;">
+<div align="center">
 
 | 🔧 Languages | 📊 Databases | 🌐 Frontend |
 |-----------|-----------|----------|
