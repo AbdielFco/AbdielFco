@@ -100,8 +100,6 @@
 
   |           |           |
   |-----------|-----------|
-  |<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-  |<img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />
-  <img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" /> |
+  |<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>|<img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />|
+  |<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>|<img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" /> |
 </div>
