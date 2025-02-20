@@ -56,23 +56,20 @@
 
 ###
 
-<h3 align="center">🔧 Languages | 📊 Databases | 🌐 Frontend</h3>
+### 🔧 Languages | 📊 Databases | 🌐 Frontend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap" height="40" />
-</div>
+| Languages | Databases | Frontend |
+|-----------|-----------|----------|
+| ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) |
 
-###
+---
 
-<h3 align="center">🖥️ Backend | 📝 Control | 🏗️ Dev Tools</h3>
+### 🖥️ Backend | 📝 Control | 🏗️ Dev Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="40" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-</div>
+| Backend | Control | Dev Tools |
+|---------|---------|-----------|
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
+
 
 ###
 
