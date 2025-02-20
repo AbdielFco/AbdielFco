@@ -103,7 +103,7 @@
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
   </div>
   <div align="right">
-    <img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" style="margin-left: 15px;" />
+    <img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />
   </div>
 </div>
 
