@@ -29,6 +29,14 @@
 
 <div align="center">
 
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| 🧜‍♂️ Superheroes & animated shows    | <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2012/03/155569-nintendo-busca-espiritu-inazuma.png" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>    | Dato 3    |
+| 💻 Programming & tech    | Dato B    | Dato C    |
+| 🎮 Games, music & more!    | Dato B    | Dato C    |
+
+
+| 🔧 1 | 📊 2 |
 |-----------|-----------|
 |  <p>🧜‍♂️ Superheroes & animated shows <br>
   💻 Programming & tech <br>
