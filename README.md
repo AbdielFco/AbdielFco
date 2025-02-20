@@ -56,7 +56,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="color:red;">
 
 | 🔧 Languages | 📊 Databases | 🌐 Frontend |
 |-----------|-----------|----------|
