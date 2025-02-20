@@ -56,15 +56,27 @@
 
 ###
 
-| 🔧 Languages | 📊 Databases | 🌐 Frontend |
-|---------------|---------------|---------------|
+### 🔧 Languages | 📊 Databases | 🌐 Frontend
+
+| Languages | Databases | Frontend |
+|-----------|-----------|----------|
 | ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) |
 
-###
+---
 
-| 🖥️ Backend | 📝 Control | 🏗️ Dev Tools |
-|-------------|-------------|---------------|
+### 🖥️ Backend | 📝 Control | 🏗️ Dev Tools
+
+| Backend | Control | Dev Tools |
+|---------|---------|-----------|
 | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
+
+---
+
+### 🛡️ Terminal | 🛠 Productivity | 🎨 Design
+
+| Terminal | Productivity | Design |
+|----------|-------------|--------|
+| ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Notion](https://skillicons.dev/icons?i=notion) ![Trello](https://skillicons.dev/icons?i=trello) | ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) |
 
 
 ###
