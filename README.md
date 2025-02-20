@@ -31,8 +31,8 @@
 
   |           |           |
   |-----------|-----------|
-  | 🧜‍♂️ Superheroes & animated shows    | <img src="https://i.redd.it/2mei2h1vv1n51.jpg" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>    |
-  | 💻 Programming & tech    |     |
+  | 🧜‍♂️ Superheroes & animated shows    |  <img src="https://preview.redd.it/frq99bxwvfu41.jpg?width=1080&crop=smart&auto=webp&s=d9e196a58ed6c1369f30f7ddc29bc7856ce360d2" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>   |
+  | 💻 Programming & tech    |  <img src="https://i.redd.it/2mei2h1vv1n51.jpg" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>   |
   | 🎮 Games, music & more!    |  <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2012/03/155569-nintendo-busca-espiritu-inazuma.png" height="100" alt="Inazuma Eleven" style="margin-left: 15px;"/>   |
 
 </div>
