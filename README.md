@@ -17,10 +17,10 @@
 
 <p align="left">
 🚀 <strong>Currently working on:</strong> Developing personal projects & taking on new challenges.<br>
-🤝 Looking to collaborate on:** Open-source projects & gaining experience.<br>
-💡 > **Seeking feedback on:** My work, code, and ideas—let’s grow together!<br>
-🖥️ > **Currently learning:** Backend development for web applications.<br>
-🎸 > **Fun fact:** I play bass! 🎵
+🤝 <strong>Looking to collaborate on:</strong> Open-source projects & gaining experience.<br>
+💡 <strong>Seeking feedback on:</strong> My work, code, and ideas—let’s grow together!<br>
+🖥️ <strong>Currently learning:</strong> Backend development for web applications.<br>
+🎸 <strong>Fun fact:</strong> I play bass! 🎵
 </p>
 
 ###
