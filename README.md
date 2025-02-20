@@ -103,5 +103,5 @@
   |           |           |
   |-----------|-----------|
   |<p>"No matter what they tell us, we will always move forward into the future!" – Simon 🚀🔥</p>|<img height="200" src="https://media.tenor.com/GTMc-HcvAuEAAAAM/gurren-lagann-simon.gif" />|
-  |<p>"If you don't believe in the impossible, you'll never surpass yourself." – Kaiser 🔥⚽</p>|<img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" /> |
+  |<p>"If you don't believe in the impossible, you'll never surpass yourself...." – Kaiser 🔥⚽</p>|<img height="200" src="https://media.tenor.com/n1-pMIAmy-IAAAAM/micheal-kaiser-blue-lock.gif" /> |
 </div>
