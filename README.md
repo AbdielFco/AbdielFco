@@ -60,8 +60,6 @@
 |---------------|---------------|---------------|
 | ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) |
 
----
-
 ###
 
 | 🖥️ Backend | 📝 Control | 🏗️ Dev Tools |
