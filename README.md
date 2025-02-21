@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Abdiel, and I'm a Developer and Engineering student from the Dominican Republic.</p>
+<p align="left">My name is Abdiel, and I'm a <strong>Developer</strong> and <strong>Engineering student</strong> from the Dominican Republic.</p>
 
 ###
 
