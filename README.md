@@ -20,7 +20,7 @@
 🤝 <strong>Looking to collaborate on:</strong> Open-source projects & gaining experience.<br>
 💡 <strong>Seeking feedback on:</strong> My work, code, and ideas—let’s grow together!<br>
 🖥️ <strong>Currently learning:</strong> Backend development for web applications.<br>
-🎸 <strong>Fun fact:</strong> I play bass! 🎵🎵
+🎸 <strong>Fun fact:</strong> I play bass! 🎵
 </p>
 
 ###
