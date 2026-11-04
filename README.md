@@ -20,13 +20,14 @@ Welcome to my GitHub! I'm a **Systems Engineer** working as a **Software Develop
 | **Cloud & DevOps** | ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
 | **Tools & Game Dev** | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Godot](https://skillicons.dev/icons?i=godot) |
 
-> **Note:** I also have hands-on experience with `Cloud Run`, `CI/CD`, `DigitalOcean`, `Firestore`, `Scraping`, and modern workflow tools like *Cursor* and *Obsidian*.
+> **Note:** I also have hands-on experience with `Cloud Run`, `CI/CD`, `DigitalOcean`, `Firestore`, `Scraping`.
 
 #### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdielFco&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdielFco&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
-</p>
+
+![](https://streak-stats.demolab.com/?user=abdielfco&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdielfco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 #### 📫 How to reach me
 - **Email:** [juanabdiel56@gmail.com](mailto:juanabdiel56@gmail.com)
