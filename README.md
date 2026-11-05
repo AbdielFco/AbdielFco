@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Systems Engineer** working as a **Software Develop
 - 🌍 **Location:** Dominican Republic 🇩🇴
 - 🎓 **Background:** Systems Engineer
 - 🔭 **Currently focusing on:** Deepening my knowledge in software architecture, prompt engineering, and mastering cloud/backend integrations.
-- 💡 **Work philosophy:** *Adapt, resolve, and understand.* I believe in using the right tools—from `ETLs` and `Docker` to AI automations—to build smarter and work more efficiently.
+- 💡 **Work philosophy:** *Adapt, resolve, and understand.* I believe in using the right tools—from `ETLs` and `Docker` to automations—to build smarter and work more efficiently.
 - 🎸 **Beyond the screen:** I study classical guitar, love discovering new music, playing video games, and watching anime.
 - 🌱 **Always learning:** Constantly improving my English and exploring new paradigms in the tech ecosystem.
 
@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a **Systems Engineer** working as a **Software Develop
 | **Cloud & DevOps** | ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
 | **Tools & Game Dev** | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Godot](https://skillicons.dev/icons?i=godot) |
 
-> **Note:** I also have hands-on experience with `Cloud Run`, `CI/CD`, `DigitalOcean`, `Firestore`, `Scraping`.
+> **Note:** I also have hands-on experience with `Cloud Run`, `CI/CD`, `Scraping`, `more tools...`.
 
 #### 📊 GitHub Analytics
 
