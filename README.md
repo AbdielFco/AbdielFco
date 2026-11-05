@@ -1,6 +1,6 @@
 ### Hi there!, I'm Abdiel 👋
 
-Welcome to my GitHub! I'm a **Systems Engineer** working as a **Software Developer**. With over a year of professional experience under my belt—and a few more years just exploring the tech world—I'm constantly learning and leveling up. I love figuring out how things work, and whether I'm building a project from scratch, diving into new backend tools, or using AI to code smarter, my goal is always to adapt quickly, figure it out, and get the job done.
+Welcome to my GitHub! I'm a **Systems Engineer** working as a **Software Developer**. With over a year of experience under my belt—and a few more years just exploring the tech world—I'm constantly learning and leveling up. I love figuring out how things work, and whether I'm building a project from scratch, diving into new backend tools, or using AI to code smarter, my goal is always to adapt quickly, figure it out, and get the job done.
 
 #### 💬 About me
 - 🌍 **Location:** Dominican Republic 🇩🇴
